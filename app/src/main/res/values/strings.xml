@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Latihan_3</string>
+    <string name="todo" />
+    <string name="textview">TextView</string>
+    <string name="home">HOME</string>
+    <string name="title_activity_menubottom">menubottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">profile</string>
+    <string name="daily">daily</string>
+    <string name="gallery">gallery</string>
+    <string name="music">music</string>
+    <string name="nama_bagea_junan_m">NAMA : BAGEA JUNAN M</string>
+    <string name="nim_10116056">NIM : 10116056</string>
+    <string name="fakultas_teknik_dan_inlmu_komputer">FAKULTAS : TEKNIK DAN INLMU KOMPUTER</string>
+    <string name="jurusan_teknik_informatika">JURUSAN : TEKNIK INFORMATIKA</string>
+    <string name="interest">INTEREST</string>
+    <string name="my_hobby">MY HOBBY</string>
+    <string name="subject">Subject</string>
+    <string name="received_email">Received Email</string>
+    <string name="enter_message_here">enter message here...</string>
+    <string name="send_email">Send Email</string>
+    <string name="junanbagea_gmail_com">junanbagea@gmail.com</string>
+    <string name="recived_email_junanbagea_gmail_com">Recived Email (junanbagea@gmail.com)</string>
+    <string name="bagea_junan_muhammad">Bagea Junan Muhammad</string>
+    <string name="music_favorite_dan_video">Music Favorite dan Video</string>
+
+</resources>
